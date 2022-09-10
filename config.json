@@ -3,4 +3,5 @@
 	"port": "25565",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
+        "login-enabled":"true",
 }
